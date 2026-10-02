@@ -1,1 +1,7 @@
+В нашем случае никаких ошибок найдено не было, всё что можно было увидеть  в выводе это так называемые "шумы" появляющиеся при запуске Linux на виртуальной машине.
+
+
+<img width="730" height="463" alt="Снимок экрана 2026-09-24 221727" src="https://github.com/user-attachments/assets/5d9d3c62-87e2-4753-bc45-232be5cb9da6" />
+
+<img width="722" height="442" alt="Снимок экрана 2026-09-24 102113" src="https://github.com/user-attachments/assets/6eaeebc8-8438-4412-bec3-a47a08d7a29b" />
 
